@@ -1,0 +1,17 @@
+{
+	"components": {
+		"db": false
+	}, 
+	"db": {
+		"host": "localhost",
+		"user": "root",
+		"password": "",
+		"name": "mydatabase"
+	},
+	"slim3": {
+		"displayErrorDetails": true
+	},
+	"twig": {
+		"cache": false
+	}
+}
